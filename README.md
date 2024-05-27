@@ -49,4 +49,5 @@ Potrebné knižnice pre spustenie tohto súboru sú:
 - customtkinter
 - PIL
 
-Súbor importuje [model.pkl](/app/model.pkl), ktorý obsahuje natrénovaný model strojového učenia pre predikciu srdcového ochorenia. Funkcia "left()," center() a "right() slúžia na prechod medzi obrazovkami v aplikácii. Funkcia "predict() vykonáva predikciu na základe vstupných údajov a zobrazí výsledok v aplikácii.
+Súbor importuje [model.pkl](/app/model.pkl), ktorý obsahuje natrénovaný model strojového učenia pre predikciu srdcového ochorenia. Funkcia "left()," center() a "right() slúžia na prechod medzi obrazovkami v aplikácii. Funkcia "predict() vykonáva predikciu na základe vstupných údajov a zobrazí výsledok v aplikácii. 
+
